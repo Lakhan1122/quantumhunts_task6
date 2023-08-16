@@ -10,7 +10,7 @@ This project demonstrates how to create a webpage with a merged video player usi
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
@@ -49,9 +49,6 @@ Contributions are welcome! If you find any issues or want to enhance the project
 4. Push the changes to your branch: `git push origin feature/your-feature-name`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
